@@ -1,22 +1,13 @@
-
 /* -------------------------------------------------------------------------- */
-/*                                   GENERAL                                  */
+/*                             CONTENIDO PRINCIPAL                            */
 /* -------------------------------------------------------------------------- */
 
-html {
-    scroll-behavior: smooth; /* Me permite ir a las secciones suavemente */
-}
-
-
-
-/* -------------------------------------------------------------------------- */
-/*                                PIE DE PÁGINA                               */
-/* -------------------------------------------------------------------------- */
+/* ------------------------ Conviértete en un Orador ------------------------ */
 
 #btn-submit:hover {
-    opacity: 90%;
+	opacity: 90%;
 }
 
-.btn-transparent:hover, .footer-links:hover {
-    opacity: 50%;
+.btn-transparent:hover {
+	opacity: 50%;
 }
