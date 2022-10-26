@@ -17,7 +17,7 @@ function calculatePrice() {
 		case 'student':
 			discount = 200 * 0.8;
 			break;
-		case 'trinee':
+		case 'trainee':
 			discount = 200 * 0.5;
 			break;
 		case 'junior':
