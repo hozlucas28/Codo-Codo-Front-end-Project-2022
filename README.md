@@ -64,7 +64,7 @@
     </ul>
 </p>
 
-<img src="https://user-images.githubusercontent.com/88015479/210153173-ff9c347e-af6f-4235-beca-27de396038cd.png">
+<img src="https://user-images.githubusercontent.com/88015479/210155467-ee816330-78ec-4cb7-8136-9f09a57e8b7f.png">
 
 <p align="center">
     <strong>(images of responsive design)</strong>
