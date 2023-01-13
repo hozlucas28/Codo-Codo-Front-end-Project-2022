@@ -31,7 +31,7 @@
 </h2>
 <p>
     This is a practice about Front-end side of a static web, made with several technologies like you can see in languages, side bar of the GitHub repository page.
-    The web is a government page where you can get tickets price, depends of the category that you selected. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to made my code be more 'prettier'.
+    The web is a government page where you can get tickets price, depends of the category that you selected. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to make my code be more 'prettier'.
 </p>
 
 <h2>
