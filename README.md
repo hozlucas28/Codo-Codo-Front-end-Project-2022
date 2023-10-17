@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=gbPUndzeOSU&ab_channel=hozlucas28" target="_blank">
-        <img src="https://user-images.githubusercontent.com/88015479/210153626-0dcf5363-6029-4149-8778-5dea445e736e.png" width="800">
+        <img src="./.github/preview.png" width="800">
     </a>
 </p>
 
@@ -64,7 +64,7 @@
     </ul>
 </p>
 
-<img src="https://user-images.githubusercontent.com/88015479/210155541-c6524349-8ffc-40bd-b842-32b9b6712a88.png">
+<img src="./.github/responsive.png">
 
 <p align="center">
     <strong>(images of responsive design)</strong>
