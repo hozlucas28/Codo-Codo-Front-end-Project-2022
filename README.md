@@ -17,13 +17,15 @@
 </p>
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=gbPUndzeOSU&ab_channel=hozlucas28" target="_blank">
-        <img src="./.github/preview.png" width="800">
-    </a>
+    <a href="https://hozlucas28.github.io/Codo-Codo-Front-end-Project-2022/" target="_blank">
+		<img src="./.github/preview.png" width="800">
+		<br />
+		Visit project
+	</a>
 </p>
 
 <p align="center">
-    <strong>(watch a <a href="https://hozlucas28.github.io/Codo-Codo-Front-end-Project-2022/" target="_blank">live test</a> or a <a href="https://www.youtube.com/watch?v=gbPUndzeOSU&ab_channel=hozlucas28" target="_blank">video preview</a>)</strong>
+    <a href="https://www.youtube.com/watch?v=gbPUndzeOSU&ab_channel=hozlucas28" target="_blank">(demonstration video)</a>
 </p>
 
 <h2>
